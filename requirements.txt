@@ -1,0 +1,13 @@
+spacy
+spacy-lookups-data
+tika
+newspaper3k
+wordcloud
+textatistic
+langdetect
+bs4 
+requests 
+lxml 
+pandas 
+selenium
+stop-words
